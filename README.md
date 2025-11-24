@@ -203,7 +203,4 @@ chat-interface/
 - **MongoDB connection errors**: Verify MongoDB is running and the connection string is correct
 - **CORS errors**: The backend is configured to allow CORS from the frontend
 
-## License
-
-ISC
 
